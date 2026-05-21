@@ -1,17 +1,9 @@
 <div align="center">
 
 <img src="https://github.com/yeroman1.png" width="100" style="border-radius:50%"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Yeroman)](https://github.com/yeroman1)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yeroman;Software+Engineer+%26+Builder;Full-Stack+Developer;Open+Source+Enthusiast)](https://github.com/yeroman1)
-
-![Software Engineer](https://img.shields.io/badge/Software%20Engineer-0c2d4a?style=for-the-badge&logoColor=79c0ff)&nbsp;
-![Full-Stack](https://img.shields.io/badge/Full--Stack%20Developer-04342c?style=for-the-badge&logoColor=5DCAA5)&nbsp;
-![Open Source](https://img.shields.io/badge/Open%20Source-26215c?style=for-the-badge&logoColor=d2a8ff)&nbsp;
-![Builder](https://img.shields.io/badge/Builder-412402?style=for-the-badge&logoColor=f0993e)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeroman1&show_icons=true&theme=github_dark&hide_border=true&bg_color=161b22&title_color=36BCF7&icon_color=1D9E75&text_color=e6edf3)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yeroman1&theme=github-dark-blue&hide_border=true&background=161b22&ring=36BCF7&fire=1D9E75&currStreakLabel=36BCF7)](https://github.com/yeroman1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Builder;Full-Stack+Developer;Open+Source+Enthusiast)](https://github.com/yeroman1)
 
 </div>
 
