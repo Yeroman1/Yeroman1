@@ -1,51 +1,76 @@
-# 👋 Hi, I'm Yeroman
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Yeroman;Software+Engineer+%26+Builder;Full-Stack+Developer;Open+Source+Enthusiast)](https://github.com/yeroman1)
 
-🚀 Full-Stack Developer | AI Builder | Problem Solver  
-🧠 Passionate about AI, automation & web apps  
-💻 Creator of AI Quiz Generator
-
----
-
-## ⚡ About Me
-- 🔭 I’m currently working on AI-powered web apps  
-- 🌱 Learning advanced backend & system design  
-- 🤖 Interested in AI automation & APIs  
-- 🎯 Goal: Build real-world SaaS products  
-- ⚡ Fun fact: I love turning ideas into working apps
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/yeroman1)
 
 ---
 
-## 🛠️ Tech Stack
-- 💻 JavaScript | Node.js | Express  
-- 🌐 HTML | CSS | REST APIs  
-- 🤖 OpenAI API integration  
-- 🗄️ Git & GitHub  
+### 🏛️ About Me & Experience
+
+> *Building clean, scalable software — one commit at a time.*
+
+- **Software Engineer**
+  * Designing and shipping full-stack web applications with a focus on performance and clean architecture.
+- **Open Source Contributor**
+  * Actively contributing to community-driven projects and maintaining personal repositories.
+- **Lifelong Learner**
+  * Constantly leveling up in algorithms, system design, and modern dev tooling.
 
 ---
 
-## 🚀 Featured Project
+### ⚡ Who I Am
 
-### 🧠 AI Quiz Generator
-> A full-stack web app that generates MCQ quizzes using AI based on user topics.
-
-🔗 Live Demo: https://your-deploy-link.com  
-🔗 GitHub: https://github.com/Yeroman1/Quiz-Generator
+I'm **yeroman1** — a passionate developer who loves turning ideas into working software. My approach blends **engineering discipline** with **creative problem solving**. Whether it's architecting a backend API, crafting a polished UI, or debugging a tricky algorithm, I show up and ship.
 
 ---
 
-## 📊 GitHub Stats
+### 🛠 My Tech Stack
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yeroman1&show_icons=true&theme=tokyonight)
+**Languages**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeroman1&layout=compact&theme=tokyonight)
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css)
+
+**Frontend**
+
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+
+**Backend & DB**
+
+![](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql)
+
+**Tools & DevOps**
+
+![](https://skillicons.dev/icons?i=git,linux,docker,postman,vscode)
 
 ---
 
-## 🌍 Connect With Me
-- GitHub: https://github.com/Yeroman1
-- Email: your-email@example.com
+### 🚀 Featured Projects
+
+- **[Project Name]** | *Web App / Full-Stack*
+  * Brief description of what it does and the problem it solves.
+- **[Project Name]** | *API / Backend*
+  * Brief description of what it does and the tech behind it.
+- **[Project Name]** | *Tool / Utility*
+  * Brief description of what it does and why you built it.
+
+> 📌 Pin your best repos on your profile to show them here!
 
 ---
 
-## 💡 Quote
-> “Code is not just syntax, it’s creativity turned into reality.”
+### 📊 GitHub Stats
+
+![yeroman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeroman1&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeroman1&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeroman1&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🧠 Current Focus
+
+- **Learning:** System Design, Cloud Architecture, and Advanced Algorithms.
+- **Building:** Personal projects that solve real problems.
+- **Goal:** Contribute to impactful open source software and grow as an engineer.
+
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The+best+way+to+predict+the+future+is+to+invent+it.)](https://github.com/yeroman1)
