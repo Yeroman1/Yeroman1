@@ -2,7 +2,7 @@
 
 <img src="https://github.com/yeroman1.png" width="100" style="border-radius:50%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Hi+👋,+I'm+Yeroman)](https://github.com/yeroman1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Hi+,+I'm+Yeroman)](https://github.com/yeroman1)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Builder;Full-Stack+Developer;Open+Source+Enthusiast)](https://github.com/yeroman1)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### 🏛️ About Me & Experience
+### About Me & Experience
 
 > *Building clean, scalable software — one commit at a time.*
 
@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ Who I Am
+###  Who I Am
 
 I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into working software. My approach blends **engineering discipline** with **creative problem solving**. Whether it's architecting a backend API, crafting a polished UI, or debugging a tricky algorithm, I show up and ship.
 
@@ -36,15 +36,14 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css)
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart)
 
-**Frontend**
+**Tech-stacks**
 
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
-**Backend & DB**
 
-![](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql)
+![](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,flutter)
 
 **Tools & DevOps**
 
@@ -52,7 +51,7 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **FINANCE MANAGER** | *Web App / Full-Stack*
   * Brief description of what it does and the problem it solves.
@@ -61,7 +60,7 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 - **TIK-TOK-TAI GAME** | *Tool / Utility*
   * Brief description of what it does and why you built it.
 
-> 📌 AI QUIZ GENERATOR
+>  AI QUIZ GENERATOR
 
 ---
 
