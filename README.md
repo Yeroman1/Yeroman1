@@ -38,7 +38,7 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 
 ![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart)
 
-**Tech-stacks**
+**Frameworks and DB**
 
 ![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
 
