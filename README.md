@@ -65,12 +65,9 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 ---
 
 ### 📊 GitHub Stats
-
 ![yeroman1's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeroman1&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeroman1&theme=tokyonight&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=yeroman1&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yeroman1&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ### 🧠 Current Focus
