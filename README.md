@@ -36,7 +36,7 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart)
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart,go)
 
 **Frameworks and DB**
 
@@ -51,16 +51,7 @@ I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into w
 
 ---
 
-###  Featured Projects
 
-- **FINANCE MANAGER** | *Web App / Full-Stack*
-  * Brief description of what it does and the problem it solves.
-- **AI QUIZ GENERATOR** | *API / Backend*
-  * Brief description of what it does and the tech behind it.
-- **TIK-TOK-TAI GAME** | *Tool / Utility*
-  * Brief description of what it does and why you built it.
-
->  AI QUIZ GENERATOR
 
 ---
 
