@@ -1,5 +1,7 @@
 <div align="center">
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+</p>
 <img src="https://github.com/yeroman1.png" width="100" style="border-radius:50%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Hi+,+I'm+Yeroman)](https://github.com/yeroman1)
