@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+yeroman1!+👋;Welcome+to+my+GitHub+Portfolio;Software+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=60&lines=Hi+there%2C+I'm+yeroman1!+%F0%9F%91%8B;Welcome+to+my+GitHub+Portfolio;Software+Developer" alt="Typing SVG" />
 </p>
 <img src="https://github.com/yeroman1.png" width="100" style="border-radius:50%"/>
 
