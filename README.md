@@ -2,11 +2,6 @@
 <p align="center">
   <img src="./header.svg" width="100%" alt="Hi, I'm yeroman1 - Software Developer" />
 </p>
-<img src="https://github.com/yeroman1.png" width="100" style="border-radius:50%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=99999999&color=36BCF7&center=true&vCenter=true&width=600&repeat=false&lines=Hi+,+I'm+Yeroman)](https://github.com/yeroman1)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Builder;Full-Stack+Developer;Open+Source+Enthusiast)](https://github.com/yeroman1)
 
 </div>
 
