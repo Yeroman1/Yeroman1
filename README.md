@@ -14,7 +14,7 @@
 
 > *Building clean, scalable software — one commit at a time.*
 
-- **Software Engineer**
+- **Software Engineering Student at Adama Science and Technology University**
   * Designing and shipping full-stack web applications with a focus on performance and clean architecture.
 - **Open Source Contributor**
   * Actively contributing to community-driven projects and maintaining personal repositories.
