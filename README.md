@@ -26,7 +26,9 @@
 ###  Who I Am
 
 I'm **Yeroman Diriba** — a passionate developer who loves turning ideas into working software. My approach blends **engineering discipline** with **creative problem solving**. Whether it's architecting a backend API, crafting a polished UI, or debugging a tricky algorithm, I show up and ship.
-
+I am a Competitive Programmer and Algorithmic Problem Solver dedicated to writing highly optimized, clean, and efficient code. I specialize in breaking down complex mathematical and logical problems into scalable algorithmic solutions, consistently competing against global talent on platforms like Codeforces and LeetCode.
+<a href="https://codeforces.com/profile/Yeroman"> Codeforces </a>
+<a href="https://leetcode.com/u/Yeroman/"> leetCode </a>
 ---
 
 ### 🛠 My Tech Stack
