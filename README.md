@@ -40,7 +40,7 @@ I am a <strong>Competitive Programmer</strong> and Algorithmic Problem Solver de
 
 **Languages**
 
-![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart,go)
+![](https://skillicons.dev/icons?i=js,ts,py,cpp,html,css,dart,go,php)
 
 **Frameworks and DB**
 
