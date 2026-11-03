@@ -44,7 +44,7 @@ I am a <strong>Competitive Programmer</strong> and Algorithmic Problem Solver de
 
 **Frameworks and DB**
 
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)
+![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
 
 
 ![](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,flutter)
