@@ -42,12 +42,13 @@ I am a <strong>Competitive Programmer</strong> and Algorithmic Problem Solver de
 
 ![](https://skillicons.dev/icons?i=js,java,py,cpp,html,css,dart,go,php)
 
-**Frameworks and DB**
+**Frameworks**
 
-![](https://skillicons.dev/icons?i=react,nextjs,tailwind)
+![](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,tailwind,flutter)
 
+**Databases**
 
-![](https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,postgresql,flutter)
+![](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)
 
 **Tools & DevOps**
 
